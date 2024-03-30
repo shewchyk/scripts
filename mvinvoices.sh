@@ -9,4 +9,5 @@ mkdir -p POP
 cd /home/andrew/Downloads/
 mv *Justin* /home/andrew/Documents/Teaching/Admin/Invoices/2024/$MONTH
 cd /home/andrew/Documents/Teaching/Admin/Invoices/2024/$MONTH
-ls
+pwd
+ls -1
