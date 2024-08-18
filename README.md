@@ -8,6 +8,7 @@ Next step:
   - the execution can combine both files to one script or stay as two spearate files
 
 Current problem:
+  - I can somewhat control the workstation & desktop via KDE window manager, however it's erratic, I can either pick the workstation or the desktop but not both
   - The only solution I've found so far would require the script to find the process number for the desired workstation and desktop, however the process number changes with each reboot
 
 Request:
